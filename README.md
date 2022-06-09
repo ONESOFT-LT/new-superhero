@@ -52,7 +52,7 @@ Rikiavimas turi veikti ir pagal didėjimą ir pagal mažėjimą.
 ## Tavo herojus turi būti matomas irgi bendrų herojų sąraše
 
 ### Techniniai reikalavimai:
-1. Naudojame migracijas duomenų bazės struktūros tavrkymui
+1. Naudojame migracijas duomenų bazės struktūros tvarkymui
 2. Komanda (artisan command) - kuri importuoja informaciją iš API
 3. Formos validacijos - naudojant Laravel Request klases
 4. Puslapiavimas - per 1 psl max 10 herojų
