@@ -56,6 +56,7 @@ Rikiavimas turi veikti ir pagal didėjimą ir pagal mažėjimą.
 2. Komanda (artisan command) - kuri importuoja informaciją iš API
 3. Formos validacijos - naudojant Laravel Request klases
 4. Puslapiavimas - per 1 psl max 10 herojų
+5. Minimum 2 ryšiai
 
 ### OPTIONAL (pagal save, papildomi taškai)
 1. Livewire komponentų panaudojimas
